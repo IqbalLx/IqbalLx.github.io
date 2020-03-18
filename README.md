@@ -1,2 +1,2 @@
 # IqbalLx.github.io
-Game android ini :v
+A web-based android game built by Construct 2 Game Engine
